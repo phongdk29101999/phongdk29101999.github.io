@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - phongdk29101999
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - phongdk29101999/TechShop
+  - phongdk29101999/Academics-Management-System
