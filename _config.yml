@@ -235,8 +235,8 @@ jekyll-archives:
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/" 
 
-display_tags: ["custom-tag"] # these tags will be displayed on the front page of your blog
-display_categories: ["custom-category"] # these categories will be displayed on the front page of your blog
+display_tags: ["flutter"] # these tags will be displayed on the front page of your blog
+display_categories: ["IT"] # these categories will be displayed on the front page of your blog
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
