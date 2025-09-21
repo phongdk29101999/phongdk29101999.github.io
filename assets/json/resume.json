@@ -23,11 +23,20 @@
   },
   "work": [
     {
+      "name": "GMO Financial Holdings, Inc.",
+      "position": "Software Engineer",
+      "url": "https://www.gmofh.com/en/",
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "summary": "Relocated to the headquarters in Japan. Working as a Mobile Developer using Swift and Flutter",
+      "highlights": ["Mobile Development"]
+    },
+    {
       "name": "GMO-Z.com Financial System VN",
       "position": "Software Engineer",
       "url": "https://fs-vietnam.gmofh.com/",
       "startDate": "2023-11-15",
-      "endDate": "Present",
+      "endDate": "2025-08-31",
       "summary": "Working as a Mobile Developer using Swift and Flutter",
       "highlights": ["Mobile Development"]
     },

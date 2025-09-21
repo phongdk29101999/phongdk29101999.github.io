@@ -9,9 +9,9 @@ profile:
   image: prof_pic_color.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>GMO-Z.com FS VN Co.,Ltd</p>
-    <p>1, Dao Duy Anh</p>
-    <p>Hanoi, VietNam</p>
+    <p>GMO Financial Holdings, Inc.</p>
+    <p>SHIBUYA FUKURAS, 1-2-3, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043</p>
+    <p>Japan</p>
 
 social: true # includes social icons at the bottom of the page
 
